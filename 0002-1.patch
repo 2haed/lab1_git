@@ -1,0 +1,26 @@
+From 1773f86ba362fa8300856d754cb58b6799d22a26 Mon Sep 17 00:00:00 2001
+From: kapus <yurlov.daniill1@yandex.ru>
+Date: Sun, 27 Oct 2024 14:49:22 +0300
+Subject: [PATCH 2/3] =?UTF-8?q?=D1=81=D0=B5=D1=80=D0=B8=D1=8F=20=D0=BA?=
+ =?UTF-8?q?=D0=BE=D0=BC=D0=BC=D0=B8=D1=82=D0=BE=D0=B21?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ file1.py | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/file1.py b/file1.py
+index 47a27ca..3efbb08 100644
+--- a/file1.py
++++ b/file1.py
+@@ -2,3 +2,4 @@ print('hello world1')
+ print('добавить в один из файлов новую информацию')
+ print('изменить в ней один из первых файлов')
+ print('серия')
++print('2серия')
+\ No newline at end of file
+-- 
+2.47.0.windows.1
+
